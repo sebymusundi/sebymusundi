@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sebymusundi
-- 👀 I’m interested in bioinformatics, machine learning and open science 
-- 🌱 I’m currently learning python and basics of machine learning
-- 💞️ I’m looking to collaborate on how to apply machine learning approaches to biological data
+- 👀 I’m interested in bioinformatics, machine learning, and open science 
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on how to apply machine-learning approaches to biological data
 - 📫 Reach me @sebymusundi ...
 
 <!---
